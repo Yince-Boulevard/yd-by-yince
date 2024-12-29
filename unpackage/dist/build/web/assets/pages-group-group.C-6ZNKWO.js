@@ -1,0 +1,1 @@
+import{e as s,w as e,i as a,o,d as t}from"./index-DJC_y063.js";import{_ as r}from"./_plugin-vue_export-helper.BCo6x5W8.js";const d=r({data:()=>({}),methods:{}},[["render",function(r,d,n,i,p,u){const f=a;return o(),s(f,{class:"body"},{default:e((()=>[t(" 我是我的小组 ")])),_:1})}]]);export{d as default};

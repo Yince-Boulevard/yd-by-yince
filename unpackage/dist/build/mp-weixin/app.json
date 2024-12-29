@@ -1,0 +1,16 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/form/form",
+    "pages/list/list",
+    "pages/group/group",
+    "pages/tip/tip"
+  ],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "YICNCE",
+    "navigationBarBackgroundColor": "#c1380f",
+    "backgroundColor": "#F8F8F8"
+  },
+  "usingComponents": {}
+}
